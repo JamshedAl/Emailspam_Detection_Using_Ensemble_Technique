@@ -1,5 +1,5 @@
 # Emailspam_Detection_Using_Ensemble_Technique
-Email Spam DetectionEmail Spam Detection
+Email Spam Detection
 SCOPE:
 The project scope of email spam detection typically involves designing and implementing a system or different algorithms to identify and classify emails as either spam or legitimate (non-spam).
 
